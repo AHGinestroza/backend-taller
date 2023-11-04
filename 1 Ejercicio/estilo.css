@@ -1,0 +1,39 @@
+html, body {
+    min-height: 80%;
+    background: #51ccdb;
+    }
+
+
+form {
+	width: 50%;
+    padding: 20px;
+    border-radius: 6px;
+    background: #a4c0de;
+    box-shadow: 0 0 8px  #baa4de;
+    padding-top: 1%;
+    padding-left: 3%; 
+    align-content: center;
+    justify-content: center;
+    }
+
+ .numer1 {
+ 	border-radius: 5px;
+ 	border-color: white;
+ }
+
+ .numer2 {
+ 	border-radius: 5px;
+ 	border-color: white;
+ }
+
+ .boton {
+ 	color: white;
+ 	background: #1d84bf;
+ 	border-radius: 5px;
+ 	
+ }
+
+ .selecion {
+ 	border-radius: 5px;
+ 	border-color: white;
+ }

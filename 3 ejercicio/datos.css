@@ -1,0 +1,31 @@
+html, head,body {
+    min-height: 80%;
+    background: #51ccdb;
+    padding-top: 1%;
+    text-align: center;
+    }
+
+.centro{
+    display: inline-block;
+    vertical-align: all;
+
+}
+form {
+    display: inline-block;
+    vertical-align:all;
+	width: 60%;
+    padding: 20px;
+    border-radius: 6px;
+    background: #a4c0de;
+    box-shadow: 0 0 15px  #baa4de;
+    padding-top: 1%;
+    padding-left: 3%; 
+    
+   
+    }
+
+.consulta{
+    background: #b52844;
+    border-radius: 5px;
+    border-color:none;
+}

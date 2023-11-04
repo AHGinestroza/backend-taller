@@ -1,0 +1,24 @@
+html, head,body {
+    min-height: 80%;
+    background: #4798cc;
+    padding-top: 1%;
+    text-align: center;
+    }
+
+ form, div {
+    display: inline-block;
+    vertical-align:all;
+	width: 50%;
+    padding: 20px;
+    border-radius: 6px;
+    background: #97b9cf;
+    box-shadow: 0 0 8px  #393c3d;
+    padding-top: 1%;
+    padding-left: 3%; 
+    
+   
+    }
+
+ .boton{
+ 	border-radius: 5px;
+ }

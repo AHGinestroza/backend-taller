@@ -1,0 +1,44 @@
+body {
+  background: #ddd;
+  font-family: sans-serif;
+}
+
+.container {
+  margin: 20px 0 20px 0;
+}
+
+/*--------------------------------------------------------------
+# Table
+--------------------------------------------------------------*/
+.table-filter {
+  margin-bottom: 5px;
+}
+
+table {
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1), 0px 10px 20px rgba(0, 0, 0, 0.05),
+    0px 20px 20px rgba(0, 0, 0, 0.05), 0px 30px 20px rgba(0, 0, 0, 0.05);
+}
+
+th {
+  color: #ffffff;
+  background: #39a2fb;
+  font-weight: 700;
+}
+
+tr {
+  background: #fff;
+}
+
+tr:hover {
+  background: #f4f4f4;
+}
+
+th,
+td {
+  padding: 5px 5px 5px 10px;
+}
+
+td {
+  word-wrap: break-word;
+  border-bottom: 1px solid #ccc;
+}
